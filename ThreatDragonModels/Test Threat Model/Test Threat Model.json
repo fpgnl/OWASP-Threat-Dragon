@@ -1,0 +1,26 @@
+{
+  "version": "2.0.6",
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "FPGNL",
+    "description": "This is a test production of the platform",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "My STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.6",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Frank",
+    "threatTop": 0
+  }
+}
